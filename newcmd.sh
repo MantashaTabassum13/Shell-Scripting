@@ -8,5 +8,9 @@
 # | pipe command
 #
 # ps -ef | grep amazon
+#
+# wget
+# curl
+#
 
 
